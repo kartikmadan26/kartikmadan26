@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Kartik Madan, a 21 years old techie from Delhi,India.
+I'm Kartik Madan, a 21 years old techie from Delhi, India.
 
 - 👨‍💻 Interned at [Status Neo](https://statusneo.com/)
 
